@@ -23,28 +23,6 @@ Now that you know how to manage the flow of shared data with Redux, it's time to
             <li>Connect Redux to the Messages App</li>
             <li>Extract Local State into Redux</li>
             <li>Moving Forward From Here</li>
-            <li>Ditch Custom CSS for Bootstrap</li>
-            <li>Use a span to Target Inline Elements</li>
-            <li>Create a Custom Heading</li>
-            <li>Add Font Awesome Icons to our Buttons</li>
-            <li>Add Font Awesome Icons to all of our Buttons</li>
-            <li>Responsively Style Radio Buttons</li>
-            <li>Responsively Style Checkboxes</li>
-            <li>Style Text Inputs as Form Controls</li>
-            <li>Line up Form Elements Responsively with Bootstrap</li>
-            <li>Create a Bootstrap Headline</li>
-            <li>House our page within a Bootstrap container-fluid div</li>
-            <li>Create a Bootstrap Row</li>
-            <li>Split Your Bootstrap Row</li>
-            <li>Create Bootstrap Wells</li>
-            <li>Add Elements within Your Bootstrap Wells</li>
-            <li>Apply the Default Bootstrap Button Style</li>
-            <li>Create a Class to Target with jQuery Selectors</li>
-            <li>Add id Attributes to Bootstrap Elements</li>
-            <li>Label Bootstrap Wells</li>
-            <li>Give Each Element a Unique id</li>
-            <li>Label Bootstrap Buttons</li>
-            <li>Use Comments to Clarify Code</li>
           </ul>
     </div>
 </body>
