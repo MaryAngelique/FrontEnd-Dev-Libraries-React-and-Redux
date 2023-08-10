@@ -18,11 +18,11 @@ Now that you know how to manage the flow of shared data with Redux, it's time to
             <li>Extract State Logic to Redux</li>
             <li>Use Provider to Connect Redux to React</li>
             <li>Map State to Props</li>
-            <li>Create a Block Element Bootstrap Button</li>
-            <li>Taste the Bootstrap Button Color Rainbow</li>
-            <li>Call out Optional Actions with btn-info</li>
-            <li>Warn Your Users of a Dangerous Action with btn-danger</li>
-            <li>Use the Bootstrap Grid to Put Elements Side By Side</li>
+            <li>Map Dispatch to Props</li>
+            <li>Connect Redux to React</li>
+            <li>Connect Redux to the Messages App</li>
+            <li>Extract Local State into Redux</li>
+            <li>Moving Forward From Here</li>
             <li>Ditch Custom CSS for Bootstrap</li>
             <li>Use a span to Target Inline Elements</li>
             <li>Create a Custom Heading</li>
